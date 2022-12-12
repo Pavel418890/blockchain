@@ -5,7 +5,7 @@ package database
 import (
 	"sync"
 
-	"github.com/ardanlabs/blockchain/foundation/blockchain/genesis"
+	"github.com/pavel418890/blockchain/foundation/blockchain/genesis"
 )
 
 // Database manages data related to accounts who have transacted on the blockchain.

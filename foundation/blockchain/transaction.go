@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ardanlabs/blockchain/foundation/signature"
+	"github.com/pavel418890/blockchain/foundation/signature"
 )
 
 // ===========================================================================

@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ardanlabs/blockchain/app/services/node/handlers"
-	"github.com/ardanlabs/blockchain/foundation/blockchain/genesis"
-	"github.com/ardanlabs/blockchain/foundation/logger"
 	"github.com/ardanlabs/conf/v3"
+	"github.com/pavel418890/blockchain/app/services/node/handlers"
+	"github.com/pavel418890/blockchain/foundation/blockchain/genesis"
+	"github.com/pavel418890/blockchain/foundation/logger"
 	"go.uber.org/zap"
 )
 
